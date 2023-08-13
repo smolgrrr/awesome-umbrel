@@ -12,9 +12,9 @@ Community App Stores can be created by anyone. The apps published in them are no
   Focused on encouraging useful self-hosted alternatives to proprietary software
   - rhasspy: Rhasspy is an open source, fully offline voice assistant
 
-- [getAlby](https://github.com/getAlby/umbrel-community-app-store) ![stars](https://img.shields.io/github/stars/getAlby/umbrel-community-app-store.svg?style=social)
-  Community appstore by [getAlby.com](https://getalby.com/)
-  - alby-nostr-wallet-connect: The power of the zaps at the tip of your fingers.
+- [Nebula](https://github.com/itsnebulalol/umbrel-store) ![stars](https://img.shields.io/github/stars/itsnebulalol/umbrel-store.svg?style=social)
+  - Umami: Umami is an open source, privacy-focused alternative to Google Analytics
+  - Grafana: Dashboard anything. Observe everything.
 
 - [Stacks](https://github.com/ceramicwhite/stacks-apps-on-umbrel) ![stars](https://img.shields.io/github/stars/ceramicwhite/stacks-apps-on-umbrel.svg?style=social)
   Apps related to [Stacks](https://www.stacks.co/)
@@ -25,7 +25,11 @@ Community App Stores can be created by anyone. The apps published in them are no
   -  Multisafe: A shared crypto wallet for managing Stacks (STX) and Bitcoin (BTC).
   -  FatSTX Tax Exporter: Export your STX transactions for tax software
   -  Stacks Explorer: Explore transactions and accounts on the Stacks blockchain.
- 
+
+- [getAlby](https://github.com/getAlby/umbrel-community-app-store) ![stars](https://img.shields.io/github/stars/getAlby/umbrel-community-app-store.svg?style=social)
+  Community appstore by [getAlby.com](https://getalby.com/)
+  - alby-nostr-wallet-connect: The power of the zaps at the tip of your fingers.
+    
 - [Gray Finance](https://github.com/GrayFinance/gray-finance-community-app-store) ![stars](https://img.shields.io/github/stars/GrayFinance/gray-finance-community-app-store.svg?style=social)
   -  Lightning Swap: Simple, bitcoin swap.
 
