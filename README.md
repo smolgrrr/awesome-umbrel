@@ -1,4 +1,4 @@
-[Umbrel](https://github.com/fiatjaf) is a beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+[Umbrel](https://github.com/getumbrel) is a beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 
 Community App Stores can be created by anyone. The apps published in them are not verified or vetted by the official Umbrel App Store team, and can potentially be insecure or malicious. Use caution and only add app stores from developers you trust.
 
