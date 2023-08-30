@@ -8,6 +8,11 @@ Community App Stores can be created by anyone. The apps published in them are no
   - monero: Run your monero node and independently store and validate every single Monero transaction with it.
   - btcpay-altcoins: Accept Bitcoin and Monero payments with 0 fees & no 3rd party
 
+-[Beaver's appstore](https://github.com/buttonbeaver/beaver-umbrel-app-store) ![stars](https://img.shields.io/github/stars/buttonbeaver/beaver-umbrel-app-store.svg?style=social)
+  - Freeciv: Turn based strategy game server based on Civilization 
+  - IPFS-Node: An IPFS node and UI on your Umbrel!
+  - Kavita: Digital ebook library which supports a vast array of file formats.
+  
 - [Smolgrrr's appstore](https://github.com/smolgrrr/smolgrrr_umbrel_apps) ![stars](https://img.shields.io/github/stars/smolgrrr/smolgrrr_umbrel_apps.svg?style=social)
   Focused on encouraging useful self-hosted alternatives to proprietary software
   - rhasspy: Rhasspy is an open source, fully offline voice assistant
