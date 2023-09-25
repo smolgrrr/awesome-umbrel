@@ -2,6 +2,8 @@
 
 Community App Stores can be created by anyone. The apps published in them are not verified or vetted by the official Umbrel App Store team, and can potentially be insecure or malicious. Use caution and only add app stores from developers you trust.
 
+Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https://github.com/getumbrel/umbrel-community-app-store)
+
 # Community Appstores
 - [Meganora](https://github.com/deverickapollo/meganero) ![stars](https://img.shields.io/github/stars/deverickapollo/meganero.svg?style=social)
   Monero-focused appstore
@@ -20,6 +22,10 @@ Community App Stores can be created by anyone. The apps published in them are no
 - [Nebula](https://github.com/itsnebulalol/umbrel-store) ![stars](https://img.shields.io/github/stars/itsnebulalol/umbrel-store.svg?style=social)
   - Umami: Umami is an open source, privacy-focused alternative to Google Analytics
   - Grafana: Dashboard anything. Observe everything.
+
+- [cloudrack-ca](https://github.com/cloudrack-ca/cloudrack-umbrel-apps) ![stars](https://img.shields.io/github/stars/cloudrack-ca/cloudrack-umbrel-apps.svg?style=social)
+  - Kasm: Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
+  - Wordpress: The Most Powerful CMS You Will Ever Need. .
 
 - [Stacks](https://github.com/ceramicwhite/stacks-apps-on-umbrel) ![stars](https://img.shields.io/github/stars/ceramicwhite/stacks-apps-on-umbrel.svg?style=social)
   Apps related to [Stacks](https://www.stacks.co/)
