@@ -26,6 +26,7 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
 - [cloudrack-ca](https://github.com/cloudrack-ca/cloudrack-umbrel-apps) ![stars](https://img.shields.io/github/stars/cloudrack-ca/cloudrack-umbrel-apps.svg?style=social)
   - Kasm: Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
   - Wordpress: The Most Powerful CMS You Will Ever Need. .
+  - Plesk: Plesk is a web hosting control panel for managing web, DNS, mail, and other services through a user-friendly GUI.
 
 - [Stacks](https://github.com/ceramicwhite/stacks-apps-on-umbrel) ![stars](https://img.shields.io/github/stars/ceramicwhite/stacks-apps-on-umbrel.svg?style=social)
   Apps related to [Stacks](https://www.stacks.co/)
