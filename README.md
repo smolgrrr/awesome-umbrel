@@ -37,6 +37,7 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
 - [Smolgrrr's appstore](https://github.com/smolgrrr/smolgrrr_umbrel_apps) ![stars](https://img.shields.io/github/stars/smolgrrr/smolgrrr_umbrel_apps.svg?style=social)
   Focused on encouraging useful self-hosted alternatives to proprietary software.
   - rhasspy: Rhasspy is an open source, fully offline voice assistant.
+  - wired: anonymous first nostr client, using PoW to prevent spam. getwired.app
 
 - [Nebula](https://github.com/itsnebulalol/umbrel-store) ![stars](https://img.shields.io/github/stars/itsnebulalol/umbrel-store.svg?style=social)
   - Umami: Umami is an open source, privacy-focused alternative to Google Analytics.
