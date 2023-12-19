@@ -9,7 +9,8 @@ Electrs can be replaced with another Electrum server implementation while keepin
 - At block height 821900, at the end of 2023, ElectrumX index takes 95 GB of space
 - The index takes few days to build no matter what ETA logs say
 - ElectrumX doesn't serve queries until the index is built
-- Once the index is built, it takes up to 10 minutes for ElectrumX to start serving queries 
+- Once the index is built, it takes up to 10 minutes for ElectrumX to start serving queries.
+Disabling persistent mempool for Bitcoin node speeds up the startup time after system reboot. 
 
 ## Doing the replacement
 
