@@ -10,7 +10,7 @@ Electrs can be replaced with another Electrum server implementation while keepin
 - The index takes few days to build no matter what ETA logs say
 - ElectrumX doesn't serve queries until the index is built
 - Once the index is built, it takes up to 10 minutes for ElectrumX to start serving queries.
-Disabling persistent mempool for Bitcoin node speeds up the startup time after system reboot. 
+Disabling persistent mempool for Bitcoin node speeds up the startup time after system reboot
 
 ## Doing the replacement
 
@@ -94,5 +94,7 @@ The Electrs web app will not show ElectrumX sync status, so check the logs perio
 The server is accessible on the same IP, port and Tor hostname as Electrs has been, no dependent apps or wallets reconfiguration is required.
 
 Browse a blockchain explorer, connect your wallet, try arbitrary address or transaction lookups to evaluate ElectrumX performance. Use it for a week or two. If you find it working better than Electrs for you, remove the Electrs index (`./umbrel/app-data/electrs/data/electrs`) to free some space.
+
+⚠️ Do not update Electrs from Umbrel app store, as it will owerwrite all the changes!
 
 If you decided not to run ElectrumX and return to Electrs, do the same as you did for the replacement, but uncomment the `electrs` section and remove `electrumx` one.

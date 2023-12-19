@@ -69,4 +69,4 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
   - dcrdex: Decentralized exchange built by the Decred Project
 
 # App mods
-- [Use ElectrumX Electrum server instead of Electrs](mods/electrumx-instead-of-electrs.md)
+- [Use ElectrumX Electrum server instead of Electrs for better performance](mods/electrumx-instead-of-electrs.md)
