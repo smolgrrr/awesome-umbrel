@@ -67,3 +67,6 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
 
 - [Decred](https://github.com/decred/umbrel-app-store) ![stars](https://img.shields.io/github/stars/decred/umbrel-app-store.svg?style=social)
   - dcrdex: Decentralized exchange built by the Decred Project
+
+# App mods
+- [Use ElectrumX Electrum server instead of Electrs for better performance](mods/electrumx-instead-of-electrs.md)
