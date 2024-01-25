@@ -33,6 +33,10 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
   - Freeciv: Turn based strategy game server based on Civilization.
   - IPFS-Node: An IPFS node and UI on your Umbrel!
   - Kavita: Digital ebook library which supports a vast array of file formats.
+ 
+- [Bitcoin-store](https://github.com/Retropex/Bitcoin-store) ![stars](https://img.shields.io/github/stars/Retropex/Bitcoin-store.svg?style=social)
+  - btc-knots: Run your personal node powered by Bitcoin Knots
+  - btc-knotsx86: Run your personal node powered by Bitcoin Knots for x86 platform
   
 - [Smolgrrr's appstore](https://github.com/smolgrrr/smolgrrr_umbrel_apps) ![stars](https://img.shields.io/github/stars/smolgrrr/smolgrrr_umbrel_apps.svg?style=social)
   Focused on encouraging useful self-hosted alternatives to proprietary software.
