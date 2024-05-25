@@ -20,6 +20,16 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
   - speedtest-tracker-2: Self-hosted speedtest-tracker.
   - speedtest-tracker: Self-hosted speedtest-tracker.
   - uptime-kuma: Self-hosted uptime monitoring tool.
+ 
+- [Reddexx](https://github.com/reddexx/umbrel-AppStore) ![stars](https://img.shields.io/github/stars/reddexx/umbrel-AppStore.svg?style=social)
+  - Bookstack
+  - Crafty: Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface.
+  - Excalidraw: An open source virtual hand-drawn style whiteboard.
+  - NetAlertX: Get visibility of what's going on on your WIFI/LAN network. Schedule scans for devices, port changes and get alerts if unknown devices or changes are found.
+  - PWNDrop: pwndrop is a self-deployable file hosting service for sending out red teaming payloads or securely sharing your private files over HTTP and WebDAV.
+  - Spotube: Spotube is an open source, cross-platform Spotify client compatible across multiple platforms utilizing Spotify's data API and YouTube, Piped.video or JioSaavn as an audio source, eliminating the need for Spotify Premium
+  - Teamspeak3 Server
+  - Tianji
 
 - [Meganora](https://github.com/deverickapollo/meganero) ![stars](https://img.shields.io/github/stars/deverickapollo/meganero.svg?style=social)
   Monero-focused appstore
