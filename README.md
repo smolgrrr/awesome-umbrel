@@ -88,5 +88,86 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
 - [Decred](https://github.com/decred/umbrel-app-store) ![stars](https://img.shields.io/github/stars/decred/umbrel-app-store.svg?style=social)
   - dcrdex: Decentralized exchange built by the Decred Project
 
+- [Olly's Umbrel App Store](https://github.com/saltedlolly/umbrel-app-store) ![stars](https://img.shields.io/github/stars/saltedlolly/umbrel-app-store.svg?style=social)
+  - [Audiobookshelf: NAS Edition](https://github.com/saltedlolly/umbrel-app-store#audiobookshelf-nas-edition): Audiobookshelf with added support for network shares - access media stored on elsewhee on your local network. 
+  - [Cloudflare DDNS](https://github.com/saltedlolly/umbrel-app-store#audiobookshelf-nas-edition): A dynamic DNS client for domains hosted on Cloudflare.
+
+- [Dennys Umbrel App Store](https://github.com/dennysubke/dennys-umbrel-app-store) ![stars](https://img.shields.io/github/stars/dennysubke/dennys-umbrel-app-store.svg?style=social)
+  - Actual Budget: A super fast privacy-focused app for managing your finances.  
+  - Airstation: An instant radio station.  
+  - Akaunting: An intuitive accounting solution for small businesses and freelancers.  
+  - Altus: A WhatsApp client with themes and multiple account support.  
+  - AnonAddy: An undercover inbox for your secret agent needs.  
+  - Anse: A fully optimized UI for AI Chats.  
+  - Answer: A Q&A platform software for teams at any scale.  
+  - Aphrodite: A dynamic badge generator for media posters.  
+  - Arcane: An easy and modern Docker management platform.  
+  - Ashigaru Terminal: A non-custodial client boosting transaction anonymity.  
+  - Atheos: A web-based IDE framework with a small footprint and minimal requirements.  
+  - Atomify: A customizable ambient atmosphere creator.  
+  - Authentik: An open-source Identity Provider.  
+  - Auto-MCS: A cross-platform Minecraft server manager.  
+  - Baby Buddy: An all-in-one baby tracker.  
+  - Baikal: A lightweight CalDAV+CardDAV server.  
+  - Beaver Habit Tracker: A self-hosted habit tracking app without “Goals”.  
+  - BentoPDF: A Privacy First PDF Toolkit.  
+  - BIP47 Message Verifier: An easy way to verify BIP47 signatures.  
+  - BitPlay: A seamless way to stream torrents directly in your browser.  
+  - Bitaxe Webflasher: An easy tool for flashing Bitaxe devices.  
+  - Black Candy: A self-hosted music streaming server.  
+  - Blinko: An AI-powered hub for your ideas and notes.  
+  - BookLore: An app for managing and reading books.  
+  - BookStack: An organized way to manage and share your knowledge.  
+  - Brave: A browser that puts you first.  
+  - Browserless: A powerful browser automation service.  
+  - BTC Tracker: A simple, privacy-focused Bitcoin investment tracker.  
+  - Bytebase: A GitOps platform for databases.  
+  - Centrifugo: A highly scalable real-time messaging server platform.  
+  - Changedetection: An easy tool to track website changes and get alerts for updates.  
+  - CheckCle: A Full-Stack Monitoring Platform.  
+  - Cheshire Cat AI: A framework to build custom AIs on top of any language model.  
+  - Chevereto: A fast, reliable way to store and share your images.  
+  - Cloud Commander: A file manager for the web.  
+  - Cloudreve: A self-hosted file management system with multi-cloud support.  
+  - Cobalt: A media downloader that doesn’t piss you off.  
+  - ConvertX: A self-hosted online file converter that converts tons of file types.  
+  - Copyparty: A versatile all-in-one file server for everything.  
+  - Crafty Controller: An intuitive way to automate and manage your Minecraft server with ease.  
+  - CyberChef: An intuitive web app for exploring and decoding data effortlessly.  
+  - Dashy: A personal dashboard built for you.  
+  - Datetime: A powerful time viewing and conversion tool.  
+  - Dawarich: A Location History Tracker.  
+  - Decypharr: An advanced solution for automated Debrid downloads.  
+  - Dockerizalo: A simple deployment platform.  
+  - Docmost: A collaborative wiki and documentation software.  
+  - Docspell: A personal document organizer.  
+  - Docusaurus: A streamlined way to build powerful documentation sites.  
+  - Domain Locker: An all-in-one tool for keeping track of your domain name portfolio.  
+  - Donetick: An intelligent way to organize tasks and chores.  
+  - Doom: A one-way ticket to Hell, and you’re driving the bus.  
+  - Dozzle: A realtime log viewer for Docker containers.  
+  - draw.io: A configurable diagramming and whiteboarding visualization application.  
+  - DumbWare Suite: A simple suite for everyday tasks.  
+  - Dynamic QR Code: An intuitive dashboard for seamless QR code creation.  
+  - Eigenfocus: An all-in-one project management, planning and time tracking app.  
+  - Emby: A personal media server.  
+  - EmulatorJS: An immersive browser retro gaming experience.  
+  - Enclosed: A minimalistic web application designed for sending private and secure notes.  
+  - Ente Auth: A 2FA authenticator with end-to-end encrypted backups.  
+  - Ente Photos: An end-to-end encrypted platform for photo storage and sharing.  
+  - Erugo: A powerful file sharing platform.  
+  - Etherpad: An intuitive tool for real-time collaborative writing.  
+  - Evershop: An All-In-One Open Source E-commerce Solution.  
+  - Excalidraw: An open-source virtual hand-drawn style whiteboard.  
+  - ExpenseOwl: A beautifully simple expense tracker.  
+  - FacturaScripts: A complete solution for your business.  
+  - Ferdium: An all-in-one messaging hub.  
+  - FileBrowser Quantum: A better filebrowser than Filebrowser.  
+  - FileFlows: A file processing app that performs actions on files using a tree flow structure.  
+  - FileGator: An application for managing files and folders.  
+  - FilePizza: A peer-to-peer file transfers in your browser.  
+  - FileRise: A secure platform for file management.  
+  - Firefox: A free and open-source web browser.
+
 # App mods
 - [Use ElectrumX Electrum server instead of Electrs for better performance](mods/electrumx-instead-of-electrs.md)
