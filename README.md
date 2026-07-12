@@ -89,8 +89,8 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
   - dcrdex: Decentralized exchange built by the Decred Project
 
 - [Olly's Umbrel App Store](https://github.com/saltedlolly/umbrel-app-store) ![stars](https://img.shields.io/github/stars/saltedlolly/umbrel-app-store.svg?style=social)
-  - [Audiobookshelf: NAS Edition](https://github.com/saltedlolly/umbrel-app-store#audiobookshelf-nas-edition): Audiobookshelf with added support for network shares - access media stored on elsewhee on your local network. 
-  - [Cloudflare DDNS](https://github.com/saltedlolly/umbrel-app-store#audiobookshelf-nas-edition): A dynamic DNS client for domains hosted on Cloudflare.
+  - [Audiobookshelf: NAS Edition](https://github.com/saltedlolly/umbrel-app-store#audiobookshelf-nas-edition): Audiobookshelf with robust support for network shares - access media stored on your local network. 
+  - [Cloudflare DDNS](https://github.com/saltedlolly/umbrel-app-store#cloudflare-ddns): A dynamic DNS client for domains hosted on Cloudflare.
 
 - [Dennys Umbrel App Store](https://github.com/dennysubke/dennys-umbrel-app-store) ![stars](https://img.shields.io/github/stars/dennysubke/dennys-umbrel-app-store.svg?style=social)
   - Actual Budget: A super fast privacy-focused app for managing your finances.  
