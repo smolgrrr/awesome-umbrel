@@ -52,6 +52,12 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
   Focused on encouraging useful self-hosted alternatives to proprietary software.
   - rhasspy: Rhasspy is an open source, fully offline voice assistant.
   - wired: anonymous first nostr client, using PoW to prevent spam. getwired.app
+ 
+  - * [SoloStrike](https://github.com/gbechtel-beck/umbrelsolostrike-app-store) [![stars](https://img.shields.io/github/stars/gbechtel-beck/umbrelsolostrike-app-store.svg?style=social)](https://github.com/gbechtel-beck/umbrelsolostrike-app-store)
+  Self-hosted Bitcoin home-mining tools.
+  + Avalon Q Controller: Schedule, monitor, and rotate pools across a fleet of Canaan Avalon Q home Bitcoin miners.
+  + CKpool Solo: Host your own solo Bitcoin mining pool — keep the full block reward.
+  + FleetSwarm: Health dashboard for mixed Bitcoin ASIC fleets.
 
 - [Nebula](https://github.com/itsnebulalol/umbrel-store) ![stars](https://img.shields.io/github/stars/itsnebulalol/umbrel-store.svg?style=social)
   - Umami: Umami is an open source, privacy-focused alternative to Google Analytics.
