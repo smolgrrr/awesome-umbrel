@@ -169,5 +169,22 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
   - FileRise: A secure platform for file management.  
   - Firefox: A free and open-source web browser.
 
+- [Canopy](https://github.com/Deepshah0308/canopy-umbrel-store) ![stars](https://img.shields.io/github/stars/Deepshah0308/canopy-umbrel-store.svg?style=social)
+  Apps Umbrel's official store doesn't have, each update test-installed before it ships. Website: [canopystore.app](https://canopystore.app)
+  - YAMS: Your own Netflix — movies, shows and subtitles, fully automatic.
+  - Bigcapital: Accounting and inventory for small businesses.
+  - ByteStash: Save, organise and share your code snippets.
+  - Feishin: Beautiful music player for your Jellyfin or Navidrome library.
+  - Gatus: Uptime monitor and status page for your apps and websites.
+  - JDownloader 2: Download manager for file hosts, video sites and link lists.
+  - linkding: Fast, minimal bookmark manager with tags and archiving.
+  - Miniflux: Minimalist, fast RSS reader with no clutter.
+  - Mylar3: Comic book automation: follows series and grabs new issues.
+  - Netdata: Real-time health of your Umbrel: CPU, memory, disks, network and every app.
+  - NZBGet: Efficient Usenet downloader that runs well on small machines.
+  - openHAB: Vendor-neutral home automation that runs entirely at home.
+  - RustFS: Fast S3-compatible object storage, a MinIO alternative written in Rust.
+  - SiYuan: Private notes and knowledge base with blocks, links and databases.
+
 # App mods
 - [Use ElectrumX Electrum server instead of Electrs for better performance](mods/electrumx-instead-of-electrs.md)
